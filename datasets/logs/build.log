@@ -1,0 +1,8 @@
+[09:14:01] INFO compiling src/main.c
+[09:14:02] INFO compiling src/statistics.c
+[09:14:02] WARN src/statistics.c:18 unused parameter 'count'
+[09:14:03] INFO linking bin/analyzer
+[09:14:03] INFO running tests
+[09:14:04] PASS test_mean
+[09:14:04] PASS test_minimum
+[09:14:04] INFO build completed

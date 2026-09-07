@@ -1,0 +1,4 @@
+web-01.example.test 192.0.2.11 production
+web-02.example.test 192.0.2.12 production
+db-01.example.test 198.51.100.21 production
+test-01.example.test 203.0.113.31 testing

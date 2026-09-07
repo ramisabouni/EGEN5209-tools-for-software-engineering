@@ -1,0 +1,14 @@
+{
+  "system": [
+    "git",
+    "vim",
+    "graphviz",
+    "gnuplot"
+  ],
+  "python": [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "requests"
+  ]
+}

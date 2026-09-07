@@ -1,0 +1,6 @@
+from,to
+cli,service
+service,parser
+service,storage
+parser,model
+storage,model

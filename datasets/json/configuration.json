@@ -1,0 +1,12 @@
+{
+  "application": "course-analyzer",
+  "version": "1.0",
+  "logging": {
+    "level": "INFO",
+    "file": "logs/application.log"
+  },
+  "features": {
+    "plots": true,
+    "network_checks": false
+  }
+}

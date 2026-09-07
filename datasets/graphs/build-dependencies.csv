@@ -1,0 +1,7 @@
+from,to
+main.o,analyzer
+statistics.o,analyzer
+main.c,main.o
+statistics.c,statistics.o
+statistics.h,main.o
+statistics.h,statistics.o
