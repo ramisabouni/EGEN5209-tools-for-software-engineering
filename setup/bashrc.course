@@ -1,0 +1,11 @@
+# EGEN5209 interactive-shell settings. Source from ~/.bashrc if desired.
+export COURSE_HOME="${COURSE_HOME:-$HOME/course}"
+export COURSE_WORK="${COURSE_WORK:-$HOME/work}"
+export COURSE_VENV="${COURSE_VENV:-$HOME/course-venv}"
+alias course='cd "$COURSE_HOME"'
+alias work='cd "$COURSE_WORK"'
+alias ll='ls -alF'
+alias gs='git status --short --branch'
+if [ -d "$COURSE_VENV/bin" ]; then
+    export PATH="$COURSE_VENV/bin:$PATH"
+fi

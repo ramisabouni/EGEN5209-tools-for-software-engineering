@@ -1,0 +1,15 @@
+set nocompatible
+filetype plugin indent on
+syntax enable
+set number
+set ruler
+set showcmd
+set wildmenu
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set autoindent
+set hlsearch
+set incsearch
+set nowrap
