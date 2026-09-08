@@ -1,4 +1,4 @@
-EGEN5209 — Tools for Software Engineering
+Tools for Software Engineering
 
 Course materials:  ~/course
 Student workspace: ~/work
