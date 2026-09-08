@@ -1,7 +1,7 @@
-# EGEN5209-tools-for-software-engineering
+# Tools-for-software-engineering
 Reposotry used for EGEN5209
 
-## Course Environment
+## Book Environment
 
 This repository contains the software environment, examples, exercises,
 datasets, and starter projects used in the course.
@@ -16,4 +16,4 @@ workspace is created.
 To verify your environment, run:
 
 ```bash
-~/course/verify-course.sh
+~/course/setup/verify-course.sh
