@@ -3,7 +3,7 @@
 set -e
 
 echo "======================================"
-echo " EGEN5209 Course Update"
+echo " Course Update"
 echo "======================================"
 echo
 
