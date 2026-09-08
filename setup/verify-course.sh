@@ -4,7 +4,7 @@
 #
 # verify-course.sh
 #
-# EGEN5209 - Tools for Software Engineering
+# Tools for Software Engineering
 # Environment Verification Script
 #
 # Author: Dr. Rami Sabouni
