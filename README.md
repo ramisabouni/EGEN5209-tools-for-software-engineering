@@ -1,5 +1,5 @@
 # Tools-for-software-engineering
-Reposotry used for EGEN5209
+Reposotry used for "Tools for Software Engineering" text book
 
 ## Book Environment
 
